@@ -52,10 +52,17 @@ $ npm start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
+## 🙌 Agradecimentos
+
+- [Time da RocketSeat](https://rocketseat.com.br/)
+- [Diego Fernandes, CTO e Instrutor da Rocketseat](https://github.com/diego3g)
+
+---
+
 <h2 id="autor">Autor</h2>
 <br />
 <a href="https://github.com/Gabriel-Cervo">
- <sub><b>Feito com ❤️ por Gabriel Cervo</b></sub></a>
+ <b>Feito com ❤️ por João Gabriel Cervo</b></a>
 
 <br />
 <br />
