@@ -50,13 +50,14 @@ $ npm start
 ```
 
 <h2 id="autor">Autor</h2>
---- <br />
+<br />
 <a href="https://github.com/Gabriel-Cervo">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGiGb8ejwFmCg/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=76A2c7dwyHM5GpxDX3N9-dN9TQdD6Ae0BkdpGvFTyMU" width="100px;" alt="Joao Gabriel Dourado Cervo"/>
  <br />
  <sub><b>Feito com ❤️ por Gabriel Cervo</b></sub></a>
 
 
+<br />
 <br />
 👋🏽 Entre em contato comigo:
 
