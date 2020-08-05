@@ -49,13 +49,15 @@ $ npm start
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
-<h3 id="autor">Autor</h3>
-
+<h2 id="autor">Autor</h2>
+--- <br />
 <a href="https://github.com/Gabriel-Cervo">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGiGb8ejwFmCg/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=76A2c7dwyHM5GpxDX3N9-dN9TQdD6Ae0BkdpGvFTyMU" width="100px;" alt="Joao Gabriel Dourado Cervo"/>
  <br />
  <sub><b>Feito com ❤️ por Gabriel Cervo</b></sub></a>
 
+
+<br />
 👋🏽 Entre em contato comigo:
 
  [![Linkedin Badge](https://img.shields.io/badge/Gabriel--Cervo-Linkedin-blue?link=https://www.linkedin.com/in/joaogabrielcervo/?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/joaogabrielcervo)
