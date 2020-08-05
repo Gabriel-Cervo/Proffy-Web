@@ -1,14 +1,17 @@
-# Proffy - Versão Web
+# Proffy - Web
 
 ## Projeto FullStack para ajudar estudantes a se conectar com professores
-
-![NPM](https://img.shields.io/npm/l/express)
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#instalacao">Instalação</a> • 
  <a href="#autor">Autor</a>
+</p>
+
+<p align="center"> 
+    <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=7159c1&labelColor=000000" alt="PRs welcome!" />
+    <img src="https://img.shields.io/npm/l/express" alt="License"/> 
 </p>
 
 <h2 id="objetivo">:dart: Objetivo</h2>
@@ -52,12 +55,11 @@ $ npm start
 <h2 id="autor">Autor</h2>
 <br />
 <a href="https://github.com/Gabriel-Cervo">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C5603AQGiGb8ejwFmCg/profile-displayphoto-shrink_400_400/0?e=1602115200&v=beta&t=76A2c7dwyHM5GpxDX3N9-dN9TQdD6Ae0BkdpGvFTyMU" width="100px;" alt="Joao Gabriel Dourado Cervo"/>
- <br />
  <sub><b>Feito com ❤️ por Gabriel Cervo</b></sub></a>
 
 <br />
 <br />
+
 👋🏽 Entre em contato comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/Gabriel--Cervo-Linkedin-blue?link=https://www.linkedin.com/in/joaogabrielcervo/?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/joaogabrielcervo)
